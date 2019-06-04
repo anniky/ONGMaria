@@ -1,0 +1,22 @@
+#titol {
+  font-size: 60px;
+  color: darkturquoise;
+  text-align: center;
+}
+
+#menu-nav {
+  position: relative;
+  font-size: 17px;
+  width: 100%;
+  padding: 0;
+  color: white;
+  letter-spacing: 1px;
+}
+
+.menu-nav-botons {
+    white-space: normal;
+    padding: 10px 15px 9px 15px !important;
+    float: left;
+    width: auto;
+    display: block;
+}
